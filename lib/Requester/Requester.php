@@ -1,4 +1,5 @@
 <?php
+namespace Requester;
 
 /**
  * Class for interact with Http Requests.
