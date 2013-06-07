@@ -1,5 +1,5 @@
 {
-    "name": "etourailley/Requester",
+    "name": "etouraille/Requester",
     "type": "library",
     "description": "Libraries to handle curl requests",
     "keywords": ["curl", "requester"],
