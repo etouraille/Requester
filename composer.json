@@ -1,7 +1,12 @@
 {
+    "name": "etourailley/Requester",
+    "type": "library",
+    "description": "Libraries to handle curl requests",
+    "keywords": ["curl", "requester"],
+    "homepage": "https://github.com/etouraille/Requester",
     "autoload": {
         "psr-0": { "Requester": 
-        	[ "lib/" ]
+        	 "lib/" 
         }
     },
     "require": {
